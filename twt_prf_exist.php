@@ -42,3 +42,4 @@ function curl_get($url){
     curl_close($curl);
     return $result;
 }
+?>
